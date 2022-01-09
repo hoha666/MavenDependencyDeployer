@@ -1,0 +1,9 @@
+accounting,accounting
+bi,bi
+common,common
+custom,custom
+humanresource,humanresource
+infrastructure,infrastructure
+logistics,logistics
+network,network
+workflow,workflow

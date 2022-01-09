@@ -1,0 +1,14 @@
+Douranrepository,org.dpdouran.
+X_AbNiroo,abniroo.
+X_BankeMelli,bmelli.
+X_BarghZ,zanjan.
+X_Douran,douran.
+X_Homa,homa.
+X_Majles,majles.
+X_Naft,naft.
+X_PetroP,petro.
+X_PostB,postb.
+X_SazmanTK,keshavarzi.
+X_TarbiatM,tarbiat.
+X_TejaratP,tejaratp.
+X_Habil,harati.
